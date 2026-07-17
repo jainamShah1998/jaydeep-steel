@@ -11,9 +11,9 @@ import "@fontsource/ibm-plex-mono/600.css";
 import "./globals.css";
 
 export const metadata = {
-  title: "Shree Ambica Steel & Iron Co. | Iron & Steel Merchants, Ahmedabad",
+  title: "Jaydeep Steel — Iron & steel merchant and commission agent, Ahmedabad",
   description:
-    "Shree Ambica Steel & Iron Co. — Iron & steel merchants and commission agents based in Ahmedabad, Gujarat. Structural steel, TMT rebar, HR/CR coils, pipes and plates sourced against certified mill specifications.",
+    "Jaydeep Steel — Iron & steel merchants and commission agents based in Ahmedabad, Gujarat. Structural steel, TMT rebar, HR/CR coils, pipes and plates sourced against certified mill specifications.",
 };
 
 export default function RootLayout({ children }) {

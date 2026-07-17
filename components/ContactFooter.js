@@ -43,13 +43,13 @@ export default function ContactFooter() {
                   <a href="tel:+919227217011" className="hover:text-orange-hot transition-colors">
                     +91 92272 17011
                   </a>
-                  {/* <br />
+                  <br />
                   <a
-                    href="mailto:sales@shreeambicasteel.com"
+                    href="mailto:jaydeep.8966@gmail.com"
                     className="hover:text-orange-hot transition-colors"
                   >
-                    sales@shreeambicasteel.com
-                  </a> */}
+                    jaydeep.8966@gmail.com
+                  </a>
                 </p>
               </div>
               {/* <div>
